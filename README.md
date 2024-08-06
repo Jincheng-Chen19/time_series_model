@@ -1,4 +1,4 @@
-# time_series_model
+# time series modeling
 
 Estimate the relationship between a time series input and a result value.
 
